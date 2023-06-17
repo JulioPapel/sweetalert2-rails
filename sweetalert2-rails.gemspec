@@ -6,8 +6,8 @@ require 'sweetalert2/rails/version'
 Gem::Specification.new do |spec|
   spec.name          = "sweetalert2-rails"
   spec.version       = Sweetalert2::Rails::VERSION
-  spec.authors       = ["Carl Weis"]
-  spec.email         = ["carlweis@icloud.com"]
+  spec.authors       = ["Carl Weis, Júlio Papel"]
+  spec.email         = ["carlweis@icloud.com, julio.papel@gmail.com"]
 
   spec.summary       = %q{Replaces default javascript confirms with SweetAlert2.}
   spec.description   = %q{Replaces default javascript confirms with SweetAlert2.}

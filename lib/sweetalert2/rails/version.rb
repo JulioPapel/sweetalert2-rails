@@ -1,5 +1,5 @@
 module Sweetalert2
   module Rails
-    VERSION = "0.1.1"
+    VERSION = "11.7.12"
   end
 end

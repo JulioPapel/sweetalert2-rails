@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+Copyright (c) 2023 Júlio Papel
 Copyright (c) 2017 Carl Weis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
